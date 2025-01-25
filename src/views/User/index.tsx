@@ -16,6 +16,7 @@ import { useCookies } from 'react-cookie';
 import { usePagination } from 'hooks';
 import { GetUserBoardListResponseDto } from 'apis/response/board';
 import Pagination from 'components/Pagination';
+// import default from '../../../../board-front copy/node_modules/@babel/parser/lib/index';
 
 
 // component: 유저 화면 
