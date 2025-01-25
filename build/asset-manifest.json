@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9831622b.css",
+    "main.js": "/static/js/main.31632812.js",
+    "static/media/auth-background.JPG": "/static/media/auth-background.5de7552af13eb9cc901b.JPG",
+    "static/media/tstory.png": "/static/media/tstory.19f4ed2a1512cce0a1c1.png",
+    "index.html": "/index.html",
+    "main.9831622b.css.map": "/static/css/main.9831622b.css.map",
+    "main.31632812.js.map": "/static/js/main.31632812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9831622b.css",
+    "static/js/main.31632812.js"
+  ]
+}

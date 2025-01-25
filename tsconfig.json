@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "typeRoots": ["imgType"],
     "target": "es5",
     "baseUrl": "./src",
     "lib": [
