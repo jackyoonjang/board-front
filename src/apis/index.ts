@@ -9,7 +9,7 @@ import { PostBoardResponseDto, GetBoardResponseDto, IncreaseViewCountReponseDto,
 import { GetPopularListResponseDto, GetRelationListResponseDto } from "./response/search";
 import { PatchNicknameRequestDto, PatchProfileImageRequestDto } from "./request/user";
 
-const DOMAIN = 'http://localhost:4000';
+const DOMAIN = 'http://13.124.182.162:4000';
 
 const API_DOMAIN = `${DOMAIN}/api/v1`;
 
